@@ -12,13 +12,6 @@ In addition to the protype kit v12.0.3, this repository contains Cloud Platform 
 * .dockerignore
 * start.sh
 
-**A continuous deployment (CD) workflow, targeting the Cloud Platform**
-
-* .github/workflows/cd.yaml
-* kubernetes/service.tpl
-* kubernetes/ingress.tpl
-* kubernetes/deployment.tpl
-
 **Local Development**
 
 Run the command ```npm start``` and open http://localhost:3000 in a web browser.
